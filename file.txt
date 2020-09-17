@@ -1,4 +1,6 @@
 My firs line in project
-London is the capital of GB
+<<<<<<< HEAD
 Moscow is the capital of Russia
 Paris is the capital of France
+=======
+>>>>>>> parent of daf9986... Capital added
